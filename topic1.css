@@ -1,0 +1,84 @@
+body{
+    background-color: aquamarine;
+}
+.Topic{
+    font-size: 20px;
+    margin: 0%;
+}
+.population{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.population p{
+    margin-top: 0%;
+}
+.sample{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.sample p{
+    margin-top: 0%;
+}
+.variable{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.variable p{
+    margin-top: 0%;
+}
+.data{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.data p{
+    margin-top: 0%;
+}
+.parameter{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.parameter p{
+    margin-top: 0%;
+}
+.Statistic{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.Statistic p{
+    margin-top: 0%;
+}
+.Statistics{
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.Statistics p{
+    margin-top: 0%;
+}
+.cod{
+    font-size: 20px;
+    margin: 0%;
+}
+.codall{
+    text-align: center;
+    font-size: 20px;
+}
+.tod{
+    font-size: 20px;
+    margin: 0%;
+}
+.todall{
+    font-size: 23px;
+    margin: 0%;
+}
+.pd{
+    margin-top: 0%;
+    font-size: 20px;
+}
+.upd{
+    margin-top: 0%;
+    font-size: 20px;
+}
+.mupd{
+    margin-top: 0%;
+    font-size: 20px;
+}
